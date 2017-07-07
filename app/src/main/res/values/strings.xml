@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GoToDo</string>
+    <string name="tvEmail">Email:</string>
+    <string name="etEmailHint">Email</string>
+    <string name="tvPassword">Password:</string>
+    <string name="etPassHint">Password</string>
+    <string name="bLogin">Login</string>
+    <string name="tvSignUp">Click on Sign up button here:</string>
+    <string name="bSignUp">Sign Up</string>
+    <string name="tasksdone">TasksDone:</string>
+    <string name="bScores">Scores</string>
+    <string name="timeelapsed">TimeElapsed: </string>
+    <string name="na">Na</string>
+</resources>
